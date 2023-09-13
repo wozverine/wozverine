@@ -19,7 +19,7 @@
      </div>
 </p>
 
-
+<br/><br/><br/><br/><br/><br/>
 
 <p>
     <div align=center>
@@ -61,12 +61,14 @@
 
 <br>
 <hr>
-<div align=center>
-    <h2 align="center" >Medium Posts</h2>
-    <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
-        <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
-    </a>
-</div>
+<p>
+    <div align=center>
+        <h2 align="center" >Medium Posts</h2>
+        <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
+            <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
+        </a>
+    </div>
+</p>
 <!--[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)-->
 
 <a>
