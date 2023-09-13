@@ -21,12 +21,11 @@
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
         <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
-    <a href="" title="Go to Source">
-        <img align="right" width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
-    <br>
     <br>
 </div>
-
+ <a href="" title="Go to Source">
+        <img width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
+    <br>
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
