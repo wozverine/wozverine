@@ -15,7 +15,7 @@
     </a>
 </div>
 
-<p>
+<p align="center">
     Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
   <br>
 </p>
