@@ -7,12 +7,14 @@
 <h2 align="left">Stats</h2>
 
 <div align=center>
+    <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
         <img align="right" width=250 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
+    <hr>
 </div>
 
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -20,14 +22,14 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br/><br/><br/><br/><br/><br/>
-<hr>
 <div align=center>
+    <hr>
     <a>
       <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
     </a>
     <a href="" title="Go to Source">
         <img align="right" width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
-    </a>
+    <hr>
 </div>
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
@@ -36,12 +38,14 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div align=center>
+    <hr>
     <a href="https://git.io/streak-stats" title="Go to Source">
     <img align="left" width=300 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
+    <hr>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
