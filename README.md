@@ -8,10 +8,10 @@
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-        <img align="right" width=350 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+        <img align="right" width=300 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
     
   </div>
@@ -25,7 +25,7 @@
       <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
     </a>
     <a href="" title="Go to Source">
-        <img align="right" width=350 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
+        <img align="right" width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
     </a>
 </div>
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
