@@ -23,8 +23,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)
 
-
-[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
