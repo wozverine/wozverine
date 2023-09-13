@@ -25,19 +25,19 @@
 
 <div align=center>
     <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="left" width=350 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
+    <img align="left" width=350 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
+        <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
-  </div>
+</div>
 
-</br>
+<br/><br/><br/><br/><br/><br/>
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</br>
+<br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">Medium Posts</h2>
 
