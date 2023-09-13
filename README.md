@@ -64,7 +64,7 @@
 <p>
     <div align=center>
         <h2 align="center" >Medium Posts</h2>
-        <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
+        <a href="https://medium.com/@iremcingi" title="Go to Source">
             <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
         </a>
     </div>
@@ -72,7 +72,7 @@
 <!--[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)-->
 
 <a>
-  <img src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
+  <img align = "center" src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
 
 
