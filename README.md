@@ -1,8 +1,14 @@
 ### Hi there 👋
 <p align="center">
-    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
-    <br>
+    <div>
+        <h2>I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey</h2>
+        <br>
+        <a>
+            <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
+        </a>
+    </div>
 </p>
+<br>
 <h2 align="left">My Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)
@@ -10,9 +16,9 @@
 <p>
      <div align=center>
         <h2 align="center">Stats</h2>
-        <a>
+        <!--<a>
             <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
-        </a>
+        </a>-->
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
             <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
         </a>
