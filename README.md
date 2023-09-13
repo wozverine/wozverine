@@ -11,7 +11,7 @@
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-        <img align="right" width=300 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+        <img align="right" width=250 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
 </div>
 
@@ -51,8 +51,8 @@
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
-<br>
 
+<hr>
 <div align=center>
     <h2 align="center" >Medium Posts</h2>
     <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
