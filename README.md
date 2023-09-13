@@ -11,7 +11,7 @@
       <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine" />
+      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
   </div>
 
@@ -22,7 +22,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge	)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)
 
 [![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))
 
