@@ -7,15 +7,18 @@
 <h2 align="left">Stats</h2>
 
 <div align=center>
-    <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
         <img align="right" width=250 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
-    <hr>
 </div>
+
+<p>
+    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
+  <br>
+</p>
 
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
