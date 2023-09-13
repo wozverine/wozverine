@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center">
+    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
+    <br>
+</p>
 <h2 align="left">My Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)
@@ -9,26 +12,25 @@
 </a>
 
 <br>
-<p align="center">
-    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
-  <br>
-</p>
-<hr>
+
 
 <h2 align="left">Stats</h2>
 
 <div align=center>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
+      <img align="left" width =300 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-        <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+        <img align="right" width =300 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
     <br>
 </div>
 
+<div align=center width=500>
+    <hr>
     <br>
+</div>
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
