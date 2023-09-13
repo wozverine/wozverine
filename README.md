@@ -4,6 +4,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)
 
+<br>
+<p align="center">
+    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
+  <br>
+</p>
+<hr>
+
 <h2 align="left">Stats</h2>
 
 <div align=center>
@@ -14,12 +21,7 @@
         <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
 </div>
-<br>
-<p align="center">
-    Hi, I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey
-  <br>
-</p>
-<hr>
+
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
