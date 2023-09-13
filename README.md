@@ -27,15 +27,11 @@
     <br>
 </div>
 
-<div align=center width=500>
-    <hr>
-    <br>
-</div>
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<br/><br/><br/><br/><br/><br/>
+
 <div align=center>
     <br>
     <a href="https://git.io/streak-stats" title="Go to Source">
