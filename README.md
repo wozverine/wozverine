@@ -37,7 +37,7 @@
     <img align="left" width=350 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
+        <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
 </div>
 
@@ -48,9 +48,10 @@
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
-<h2 align="center">Medium Posts</h2>
+<hr>
+<br>
 <div align=center>
-    <h2 align="center">Medium Posts</h2>
+    <h2 align="center" width=450>Medium Posts</h2>
     <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
         <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
     </a>
