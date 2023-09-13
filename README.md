@@ -20,6 +20,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br/><br/><br/><br/><br/><br/>
+
 <div align=center>
     <a>
       <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
@@ -31,7 +32,9 @@
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
 <!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
+
 <br/><br/><br/><br/><br/><br/>
+
 <div align=center>
     <a href="https://git.io/streak-stats" title="Go to Source">
     <img align="left" width=350 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
@@ -50,8 +53,10 @@
 
 <hr>
 <br>
+<h2 align="center" >Medium Posts</h2>
+
 <div align=center>
-    <h2 align="center" width=450>Medium Posts</h2>
+    <h2 align="center" >Medium Posts</h2>
     <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
         <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
     </a>
