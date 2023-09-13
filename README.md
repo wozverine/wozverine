@@ -36,6 +36,9 @@
     <a>
       <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
     </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+        <img align="right" width=300 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
+    </a>
 </div>
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
@@ -44,9 +47,6 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div align=center>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-    <img align="left" width=300 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
