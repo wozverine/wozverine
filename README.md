@@ -21,6 +21,9 @@
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
         <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
+    <a href="" title="Go to Source">
+        <img align="right" width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
+    <br>
     <br>
 </div>
 
@@ -34,16 +37,11 @@
     <a>
       <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
     </a>
-    <a href="" title="Go to Source">
-        <img align="right" width=200 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
-    <br>
 </div>
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
 <!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
-<a>
-  <img src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
-</a>
+
 <br/><br/><br/><br/><br/><br/>
 
 <div align=center>
