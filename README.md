@@ -8,10 +8,10 @@
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
     </a>
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-        <img align="right" width=250 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+        <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
 </div>
 <br>
