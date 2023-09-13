@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine)](https://git.io/streak-stats)
 
-[![wozverine StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/9638550/wozverine))
+[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
