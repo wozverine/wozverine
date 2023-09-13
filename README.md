@@ -48,7 +48,7 @@
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
+        <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
     </a>
 </div>
 
