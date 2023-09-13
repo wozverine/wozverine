@@ -14,6 +14,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@iremcingi)
+
+
 <!--
 **wozverine/wozverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
