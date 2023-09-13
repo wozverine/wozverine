@@ -13,12 +13,12 @@
     <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
         <img align="right" width=300 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
     </a>
-    
-  </div>
+</div>
 
 <!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <br/><br/><br/><br/><br/><br/>
 <div align=center>
     <a>
@@ -49,8 +49,12 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h2 align="center">Medium Posts</h2>
-
-[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)
+<div align=center>
+    <a href="hhttps://medium.com/@iremcingi" title="Go to Source">
+    <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
+    </a>
+</div>
+<!--[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)-->
 
 <a>
   <img src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
