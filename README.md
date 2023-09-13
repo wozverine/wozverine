@@ -9,6 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine)](https://git.io/streak-stats)
 
+[![wozverine StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375)]([https://stackoverflow.com/users/14122375/hamiltonpharmd](https://stackoverflow.com/users/9638550/wozverine))
+
 
 <!--
 **wozverine/wozverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
