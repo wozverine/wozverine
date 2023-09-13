@@ -19,9 +19,17 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
 <br/><br/><br/><br/><br/><br/>
-[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))
+<div align=center>
+    <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
+        <img align="left" width=350 src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+    </a>
+    <a href="" title="Go to Source">
+        <img align="right" width=350 src="https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge" />
+    </a>
+</div>
+<!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
-![](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)
+<!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
 <br/><br/><br/><br/><br/><br/>
 <div align=center>
     <a href="https://git.io/streak-stats" title="Go to Source">
