@@ -4,7 +4,7 @@
         <h2>I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey</h2>
         <br>
         <a>
-            <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
+            <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
         </a>
     </div>
 </p>
