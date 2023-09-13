@@ -14,7 +14,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-MEDIUM ARTICLES
 [![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)
 
 
