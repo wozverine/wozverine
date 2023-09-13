@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=wozverine)
+![](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge	)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine)](https://git.io/streak-stats)
 
