@@ -16,11 +16,11 @@
 <p>
      <div align=center>
         <h2 align="center">Stats</h2>
-        <!--<a>
-            <img align="left" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
-        </a>-->
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
             <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
+        </a>
+        <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
+            <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
         </a>
      </div>
 </p>
@@ -30,13 +30,12 @@
 <p>
     <div align=center>
         <br>
+        <a href="https://git.io/streak-stats" title="Go to Source">
+            <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
+        </a>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-          <img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
+          <img align="right" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
         </a>
-        <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-            <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
-        </a>
-        <br>
     </div>
 </p>
 
@@ -45,12 +44,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-<div align=center>
-    <br>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-        <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
-    </a>
-</div>
+
 <!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
 
 <!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
