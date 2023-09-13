@@ -23,18 +23,27 @@
 
 ![](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)
+<div align=center>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="left" width=350 src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
+    </a>
+    <a>
+      <img align="right" width=350 src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" />
+    </a>
+  </div>
+
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <h2 align="center">Medium Posts</h2>
 
-
 [![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)
 
 <a>
-  <img src="https://media.tenor.com/hdVSibmU4zYAAAAd/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
+  <img src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
 
 
