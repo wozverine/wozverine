@@ -51,9 +51,7 @@
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
-<hr>
 <br>
-<h2 align="center" >Medium Posts</h2>
 
 <div align=center>
     <h2 align="center" >Medium Posts</h2>
