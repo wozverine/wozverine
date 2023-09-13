@@ -33,6 +33,10 @@
 
 [![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)
 
+<a href="https://gifdb.com/images/high/cowboy-bebop-edward-ein-floating-cb1ah4hzrt6cxbvy.gif">
+  <img src="https://gifdb.com/images/high/cowboy-bebop-edward-ein-floating-cb1ah4hzrt6cxbvy.gif" alt="a man has fallen in lego city" style="width: 100%;">
+</a>
+
 
 <!--
 **wozverine/wozverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
