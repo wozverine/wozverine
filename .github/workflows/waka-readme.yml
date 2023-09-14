@@ -9,16 +9,19 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
+            
+            
           
