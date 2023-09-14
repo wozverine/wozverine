@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463.4%20thousand%20lines%20of%20code-blue)
 
@@ -100,40 +100,16 @@ Sunday                   308 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Istanbul
-
 💬 Programming Languages: 
 Kotlin                   20 mins             █████████████████████████   99.92 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
-🔥 Editors: 
-Android Studio           20 mins             █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 Surveyapp                20 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-Kotlin                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-C                        2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/wozverine/wozverine/main/assets/bar_graph.png)
-
-
- Last Updated on 14/09/2023 18:03:32 UTC
+ Last Updated on 14/09/2023 19:15:29 UTC
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
