@@ -55,6 +55,8 @@
 <br/><br/><br/><br/><br/><br/>
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
+<br>
+<hr>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -79,9 +81,14 @@ XML      0 secs          ░░░░░░░░░░░░░░░░░░�
 </p>
 <!--[![Irem Cingi Medium](https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@iremcingi)-->
 
-<a>
-  <img align = "center" src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
-</a>
+<p>
+    <div align=center>
+        <a>
+            <img align = "center" src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
+        </a>
+    </div>
+</p>
+
 
 
 <!--
