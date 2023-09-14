@@ -56,6 +56,14 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 20 mins
+
+Kotlin   20 mins         █████████████████████████   99.92 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
