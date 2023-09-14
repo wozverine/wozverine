@@ -19,3 +19,6 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_COMMIT: "True"
+          
