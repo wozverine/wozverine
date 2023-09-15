@@ -6,12 +6,25 @@
         <a>
             <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
         </a>
+        <a>
+            <img align="center" src="![](https://komarev.com/ghpvc/?username=wozverine)" />
+        </a>
     </div>
 </p>
 <br>
-<h2 align="left">My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)
+<p align="center">
+    <div>
+            <h2 align="left">My Skills</h2>
+        <br>
+        <a>
+           <img align="center" src="[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)" />
+        </a>
+    </div>
+</p>
+
+
+
 
 <p>
      <div align=center>
@@ -57,6 +70,7 @@
 
 <br>
 <hr>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
