@@ -6,8 +6,13 @@
         <a>
             <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
         </a>
+    </div>
+</p>
+
+<p align="center">
+    <div>
         <a>
-            <img align="center" src="!https://komarev.com/ghpvc/?username=wozverine" />
+            <img align="center" src="https://komarev.com/ghpvc/?username=wozverine" />
         </a>
     </div>
 </p>
@@ -17,8 +22,8 @@
     <div>
             <h2 align="left">My Skills</h2>
         <br>
-        <a>
-           <img align="center" src="[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender)](https://skillicons.dev)" />
+        <a href="https://skillicons.dev" title="Go to Source">
+           <img align="center" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
         </a>
     </div>
 </p>
