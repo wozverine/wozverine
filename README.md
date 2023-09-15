@@ -7,7 +7,7 @@
             <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
         </a>
         <a>
-            <img align="center" src="![](https://komarev.com/ghpvc/?username=wozverine)" />
+            <img align="center" src="!https://komarev.com/ghpvc/?username=wozverine" />
         </a>
     </div>
 </p>
