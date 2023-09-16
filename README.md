@@ -61,11 +61,12 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
 <br/><br/><br/><br/><br/><br/>
-<br>
-<hr>
+
 <p>
     <div align=center>
         <br>
+	<br>
+	<hr>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 		</a>
