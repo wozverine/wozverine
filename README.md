@@ -64,7 +64,7 @@
     <div>
         <br>
         <a>
-            <img align="center" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif" width=250 />
+            <img align="left" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif" width=250 />
         </a>
     </div>
 </p>
