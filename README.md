@@ -65,13 +65,11 @@
 <p>
     <div align=center>
         <br>
-	<br>
-	<hr>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
+            <img align="left" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 		</a>
+		<br>
     </div>
-	<br>
 </p>
 
 <br/><br/><br/><br/><br/><br/>
