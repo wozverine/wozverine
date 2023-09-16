@@ -20,7 +20,7 @@
 
 <p align="center">
     <div>
-            <h2 align="left">My Skills</h2>
+        <h2 align="left">My Skills</h2>
         <br>
         <a href="https://skillicons.dev" title="Go to Source">
            <img align="center" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
@@ -64,12 +64,13 @@
     <div>
         <br>
         <a>
-            <img align="center" src="" width=250 />
+            <img align="center" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif" width=250 />
         </a>
     </div>
 </p>
 <br/><br/><br/><br/><br/><br/>
 <br>
+
 <p>
     <div align="left">
         <br>
