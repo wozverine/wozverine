@@ -64,7 +64,7 @@
     <div>
         <br>
         <a>
-            <img align="left" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif" width=250 />
+            <img align="left" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif"/>
         </a>
     </div>
 </p>
@@ -72,11 +72,11 @@
 <br>
 
 <p>
-    <div align="left">
+    <div align="center">
         <br>
 		<h2 align="left">Trophies</h2>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="left" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 		</a>
 		<br>
     </div>
