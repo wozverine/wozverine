@@ -74,7 +74,6 @@
 <p>
     <div align="center">
         <br>
-		<h2 align="left">Trophies</h2>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 		</a>
