@@ -43,13 +43,13 @@
 <br/><br/><br/><br/><br/><br/>
 
 <p>
-    <div align=center>
+    <div align=	"center">
         <br>
         <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
             <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-          <img align="right" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
+			<img align="right" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
         </a>
     </div>
 </p>
@@ -60,12 +60,20 @@
 <!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
-<br/><br/><br/><br/><br/><br/>
-
-<p>
-    <div align=center>
+<p align="center">
+    <div>
         <br>
-		<h2 align="center"Trophies</h2>
+        <a>
+            <img align="center" src="" width=250 />
+        </a>
+    </div>
+</p>
+<br/><br/><br/><br/><br/><br/>
+<br>
+<p>
+    <div align="left">
+        <br>
+		<h2 align="left">Trophies</h2>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="left" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 		</a>
