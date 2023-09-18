@@ -60,6 +60,8 @@
 <!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
+---
+
 <p align="center">
     <div>
         <br>
@@ -71,15 +73,17 @@
 <br/><br/><br/><br/><br/><br/>
 <br>
 
+---
+
 <p>
     <div align="center">
         <br>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
-		</a>
-		<br>
+	</a>
     </div>
 </p>
+---
 
 <br/><br/><br/><br/><br/><br/>
 
