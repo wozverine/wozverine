@@ -142,7 +142,7 @@ XML                      2 hrs 56 mins       █████████░░�
     <div align=center>
         <h2 align="center" >Medium Posts</h2>
         <a href="https://medium.com/@iremcingi" title="Go to Source">
-            <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=2&bg=222f2e&text=ff0000" alt="wozverine" />
+            <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=3&bg=222f2e&text=ff0000" alt="wozverine" />
         </a>
     </div>
 </p>
@@ -151,7 +151,7 @@ XML                      2 hrs 56 mins       █████████░░�
 <p>
     <div align=center>
         <a>
-            <img align = "center" src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="a man has fallen in lego city" style="width: 100%;">
+            <img align = "center" src="https://media.tenor.com/Sna4oNE4QCkAAAAC/cowboy-bebop-ed.gif" alt="radical edward" style="width: 100%;">
         </a>
     </div>
 </p>
