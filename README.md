@@ -3,30 +3,18 @@
     <div>
         <h2>I'm İrem Çıngı, Computer Engineer & Software Developer from Turkey</h2>
         <br>
+	    <h2 align="left">My Skills</h2>
         <a>
-            <img align="center" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
+            <img align="right" src="https://media.tenor.com/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width=250 />
         </a>
-    </div>
-</p>
-
-<p align="center">
-    <div>
-        <a>
-            <img align="center" src="https://komarev.com/ghpvc/?username=wozverine" />
-        </a>
-    </div>
-</p>
-<br>
-
-<p align="center">
-    <div>
-        <h2 align="left">My Skills</h2>
-        <br>
+	        <br>
         <a href="https://skillicons.dev" title="Go to Source">
-           <img align="center" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
+           <img align="left" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
         </a>
     </div>
 </p>
+
+<br/><br/><br/><br/><br/><br/>
 
 <p>
     <div align=center>
@@ -40,7 +28,7 @@
     </div>
 </p>
 
-<br/><br/><br/><br/><br/><br/>
+
 
 <p>
     <div align=	"center">
@@ -51,41 +39,38 @@
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 			<img align="right" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
         </a>
+	    <br><br><br><br><br><br><br>
     </div>
 </p>
 
-<!--[![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![wozverine StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9638550)](https://stackoverflow.com/users/9638550/wozverine))-->
-<!--[](https://komarev.com/ghpvc/?username=wozverine&style=for-the-badge)-->
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true)](https://git.io/streak-stats)-->
 
----
 
-<p align="center">
-    <div>
-        <br>
-        <a>
-            <img align="left" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif"/>
-        </a>
-    </div>
-</p>
-<br/><br/><br/><br/><br/><br/>
-<br>
-
----
+<br><br><br><br><br><br><br>
 
 <p>
     <div align="center">
-        <br>
+        <br><br><br><br><br><br><br>
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
 	</a>
     </div>
 </p>
----
 
-<br/><br/><br/><br/><br/><br/>
+
+<p align="center">
+    <div>
+        <br><br><br><br><br>
+        <a>
+            <img align="center" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif"/>
+        </a>
+	    <br><br><br><br><br>
+	    <a>
+            <img align="left" src="https://komarev.com/ghpvc/?username=wozverine" />
+        </a>
+    </div>
+</p>
+
+
 
 
 <br>
