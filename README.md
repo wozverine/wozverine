@@ -129,28 +129,39 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 <br/><br/><br/><br/><br/><br/>
 
 
+
 <p>
     <div align=center>
         <picture>
-  		<img src="/metrics.plugin.16personalities.svg" alt="Metrics">
+  		<img src="metrics.classic.svg" alt="metrics">
 	</picture>
     </div>
 </p>
-
-
 
 <br/><br/><br/><br/><br/><br/>
 
 <p>
     <div align=center>
         <picture>
-  		<img src="/github-metrics.svg" alt="Metrics">
+  		<img src="/github-metrics.svg" alt="metrics">
 	</picture>
     </div>
 </p>
-<picture>
-  
-</picture>
+
+<br/><br/><br/><br/><br/><br/>
+
+<p>
+    <div align=center>
+        <picture>
+  		<img src="/metrics.plugin.16personalities.svg" alt="metrics">
+	</picture>
+    </div>
+</p>
+
+
+
+
+
 
 <br/><br/><br/><br/><br/><br/>
 
