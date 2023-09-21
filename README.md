@@ -128,6 +128,12 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br/><br/><br/><br/><br/><br/>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+<br/><br/><br/><br/><br/><br/>
+
 <br>
 <hr>
 <p>
