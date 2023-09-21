@@ -129,15 +129,27 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 <br/><br/><br/><br/><br/><br/>
 
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<p>
+    <div align=center>
+        <picture>
+  		<img src="/metrics.plugin.16personalities.svg" alt="Metrics">
+	</picture>
+    </div>
+</p>
+
+
 
 <br/><br/><br/><br/><br/><br/>
 
-
+<p>
+    <div align=center>
+        <picture>
+  		<img src="/github-metrics.svg" alt="Metrics">
+	</picture>
+    </div>
+</p>
 <picture>
-  <img src="/metrics.plugin.16personalities.svg" alt="Metrics_mbti">
+  
 </picture>
 
 <br/><br/><br/><br/><br/><br/>
@@ -147,7 +159,7 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 <hr>
 <p>
     <div align=center>
-        <h2 align="center" >Medium Posts</h2>
+        <h2 align="center">Medium Posts</h2>
         <a href="https://medium.com/@iremcingi" title="Go to Source">
             <img align="center" width=450 src="https://github-readme-medium.vercel.app/?username=iremcingi&limit=3&bg=222f2e&text=ff0000" alt="wozverine" />
         </a>
