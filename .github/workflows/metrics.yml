@@ -14,9 +14,27 @@ jobs:
     steps:
       - uses: wozverine/metrics@master
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+      - uses: wozverine/metrics@master
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          
+      - uses: wozverine/metrics@master
+        with:
+          filename: metrics.plugin.16personalities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
+
