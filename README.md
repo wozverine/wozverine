@@ -11,44 +11,46 @@
         <a href="https://skillicons.dev" title="Go to Source">
            <img align="left" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
         </a>
+		<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+			<img align="left" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/9638550?theme=hotdog&website=true&location=true" alt="user:9638550's SO profile">
+		</a>
     </div>
 </p>
-
+<!--Hello top-->
 <br/><br/><br/><br/><br/><br/>
 
 <p>
     <div align=center>
         <h2 align="center">Stats</h2>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-            <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=react&border=61dafb&hide_border=true" />
+            <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=shadow_red&border=61dafb&hide_border=true" />
         </a>
          <a href="https://git.io/streak-stats" title="Go to Source">
-            <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=react&border=61dafb&hide_border=true" alt="wozverine" />
+            <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=git-dark&border=61dafb&hide_border=true" alt="wozverine" />
         </a>
     </div>
 </p>
-
-
-
-<p>
-    <div align=	"center">
-        <br>
-        <a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
-            <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-			<img align="right" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=tokyonight" alt="wozverine" />
-        </a>
-	    <br><br><br><br><br><br><br>
-    </div>
-</p>
-
-
 
 <br><br><br><br><br><br><br>
 
 <p>
-	<br><br><br><br><br><br><br>
+    <div align=	"left">
+        <br>
+        <!--<a href="https://stackoverflow.com/users/9638550/wozverine" title="Go to Source">
+            <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
+        </a>-->
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+			<img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=shadow_red" alt="wozverine" />
+        </a>
+    </div>
+</p>
+
+<!--First ststs-->
+
+<br><br><br><br><br><br><br>
+
+<p>
+	<br><br><br><br>
     <div align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
