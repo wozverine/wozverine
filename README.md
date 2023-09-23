@@ -63,10 +63,10 @@
 <p align="center">
     <div>
         <a href="https://www.behance.net/gallery/120401689/Cyberpunk-2077-UI-Art">
-            <img align="left" src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width=500 height=250/>
+            <img align="left" src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width=450 height=225/>
         </a>
 		<picture>
-  			<img align="right" src="/metrics.plugin.16personalities.svg" alt="metrics" width=400>
+  			<img align="right" src="/metrics.plugin.16personalities.svg" alt="metrics" width=350>
 		</picture>
 	    <a>
             	<img align="left" src="https://komarev.com/ghpvc/?username=wozverine" />
