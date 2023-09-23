@@ -68,16 +68,16 @@
 		<picture>
   			<img align="right" src="/metrics.plugin.16personalities.svg" alt="metrics">
 		</picture>
-	    <br><br><br>
 	    <a>
-            <img align="left" src="https://komarev.com/ghpvc/?username=wozverine" />
-        </a>
-		<br><br><br>
+            	<img align="left" src="https://komarev.com/ghpvc/?username=wozverine" />
+        	</a>
+		<br><br><br><br><br><br>
     </div>
 </p>
 
-<br><br><br><br><br>
-<hr>
+<br><br><br><br><br><br><br><br>
+
+<br><br><br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-465.1%20thousand%20lines%20of%20code-blue)
