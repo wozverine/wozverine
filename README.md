@@ -40,7 +40,7 @@
             <img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=9638550" alt="wozverine" />
         </a>-->
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-			<img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=shadow_red" alt="wozverine" />
+		<img align="left" src="https://github-readme-stats.vercel.app/api?username=wozverine&show_icons=true&theme=shadow_red" alt="wozverine" />
         </a>
     </div>
 </p>
@@ -54,28 +54,29 @@
     <div align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=wozverine&theme=onedark" />
-	</a>
+		</a>
     </div>
 </p>
 
+ <br><br><br><br><br>
 
 <p align="center">
     <div>
-        <br><br><br><br><br>
-        <a>
-            <img align="center" src="https://64.media.tumblr.com/ae51ca05e17fddf3c76e392cda55a9c9/tumblr_phxsnybSff1w4t58uo1_540.gif"/>
+        <a href="https://www.behance.net/gallery/120401689/Cyberpunk-2077-UI-Art">
+            <img align="left" src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width=500 height=250/>
         </a>
-	    <br><br><br><br><br>
+		<picture>
+  			<img align="right" src="/metrics.plugin.16personalities.svg" alt="metrics">
+		</picture>
+	    <br><br><br>
 	    <a>
             <img align="left" src="https://komarev.com/ghpvc/?username=wozverine" />
         </a>
+		<br><br><br>
     </div>
 </p>
 
-
-
-
-<br>
+<br><br><br><br><br>
 <hr>
 
 <!--START_SECTION:waka-->
@@ -131,44 +132,21 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 <br/><br/><br/><br/><br/><br/>
 
 
-
 <p>
     <div align=center>
-        <picture>
-  		<img src="metrics.classic.svg" alt="metrics">
-	</picture>
-    </div>
-</p>
-
-<br/><br/><br/><br/><br/><br/>
-
-<p>
-    <div align=center>
-        <picture>
-  		<img src="/github-metrics.svg" alt="metrics">
-	</picture>
-    </div>
-</p>
-
-<br/><br/><br/><br/><br/><br/>
-
-<p>
-    <div align=center>
-        <picture>
-  		<img src="/metrics.plugin.16personalities.svg" alt="metrics">
-	</picture>
+		<picture align=right>
+  			<img src="/github-metrics.svg" alt="metrics" width=500 >
+		</picture>
+        <picture align=left>
+  			<img src="/metrics.classic.svg" alt="metrics" width=500 >
+		</picture>
     </div>
 </p>
 
 
 
-
-
-
 <br/><br/><br/><br/><br/><br/>
 
-
-<br>
 <hr>
 <p>
     <div align=center>
