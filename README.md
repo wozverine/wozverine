@@ -9,10 +9,18 @@
         </a>
 	        <br>
         <a href="https://skillicons.dev" title="Go to Source">
+			<h3 align="left">Technologies</h3>
            <img align="left" src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,py,blender" />
         </a>
+		<br>
+		<a href="https://skillicons.dev" title="Go to Source">
+			<h3 align="left">Links</h3>
+			<img  href="https://www.linkedin.com/in/iremcingi/" align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+			<img  href="https://www.hackerrank.com/wozverine" align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+        </a>
+		<br>
 		<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-			<img align="left" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/9638550?theme=hotdog&website=true&location=true" alt="user:9638550's SO profile">
+			<img align="right" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/9638550?theme=hotdog&website=true&location=true" alt="user:9638550's SO profile">
 		</a>
     </div>
 </p>
