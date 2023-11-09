@@ -23,10 +23,9 @@
   			<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 		</a>
 		<br>
-			[![GitHub Streak](https://github-readme-streak-stats-seven-topaz.vercel.app?user=iremcingi&theme=git-dark)](https://git.io/streak-stats)
-		<!--<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+		<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
 			<img align="right" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/9638550?theme=hotdog&website=true&location=true" alt="user:9638550's SO profile">
-		</a>-->
+		</a>
     </div>
 </p>
 <!--Hello top-->
@@ -38,10 +37,13 @@
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
             <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=shadow_red&border=61dafb&hide_border=true" />
         </a>
-         <a href="https://git.io/streak-stats" title="Go to Source">
-            <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=git-dark&border=61dafb&hide_border=true" alt="wozverine" />
-        </a>
-    </div>
+		<a href="https://git.io/streak-stats" title="Go to Source">
+            <img align="left" src="https://github-readme-streak-stats-seven-topaz.vercel.app?user=wozverine&theme=git-dark" alt="wozverine"/>
+		</a>
+        <!-- <a href="https://git.io/streak-stats" title="Go to Source">
+            <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=git-dark&border=61dafb&hide_border=true" alt="wozverine"/>
+			</a>-->
+	</div>
 </p>
 
 <br><br><br><br><br><br><br>
