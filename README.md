@@ -23,9 +23,10 @@
   			<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 		</a>
 		<br>
-		<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+			[![GitHub Streak](https://github-readme-streak-stats-seven-topaz.vercel.app?user=iremcingi&theme=git-dark)](https://git.io/streak-stats)
+		<!--<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
 			<img align="right" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/9638550?theme=hotdog&website=true&location=true" alt="user:9638550's SO profile">
-		</a>
+		</a>-->
     </div>
 </p>
 <!--Hello top-->
