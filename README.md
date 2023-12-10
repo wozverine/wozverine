@@ -36,13 +36,13 @@
         <h2 align="center">Stats</h2>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
             <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wozverine&theme=shadow_red&border=61dafb&hide_border=true" />
-        </a>
+       <!--  </a>
 		<a href="https://git.io/streak-stats" title="Go to Source">
             <img align="left" src="https://github-readme-streak-stats-seven-topaz.vercel.app?user=wozverine&theme=git-dark" alt="wozverine"/>
-		</a>
-        <!-- <a href="https://git.io/streak-stats" title="Go to Source">
+		</a>-->
+        <a href="https://git.io/streak-stats" title="Go to Source">
             <img align="left" src="https://streak-stats.demolab.com/?user=wozverine&theme=git-dark&border=61dafb&hide_border=true" alt="wozverine"/>
-			</a>-->
+			</a>
 	</div>
 </p>
 
